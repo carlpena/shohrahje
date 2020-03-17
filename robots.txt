@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://bikohwooj.denshi.se/sitemap.xml
